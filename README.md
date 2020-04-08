@@ -12,7 +12,7 @@ ipad协议提供web服务，提供源码部署服务<br/>
 红包相关操作（发红包、接收、拆红包等）
 公众号相关操作等
 附件的人相关操作等
-功能太多，相关接口就有150多个，最近也比较忙，所以更新可能会比较慢。
+功能太多，最近也比较忙，所以更新可能会比较慢。
 
 ### 合作微信
  <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/1111.png" width = "150" height = "150" alt="" align=center />
