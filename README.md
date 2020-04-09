@@ -16,5 +16,11 @@ ipad协议提供web服务，提供源码部署服务<br/>
 
 <a href="http://39.105.46.42/swagger/index.html" target="_blank">http://39.105.46.42/swagger/index.html</a>
 
+###声明
+
+仅供自己学习研究使用，引起任何法律纠纷概不负责
+
+
+
 ### 合作微信
  <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/1111.png" width = "150" height = "150" alt="" align=center />
