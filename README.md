@@ -23,4 +23,4 @@ ipad协议提供web服务，提供源码部署服务<br/>
 
 
 ### 合作微信
- <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/1111.png" width = "150" height = "150" alt="" align=center />
+ <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/22222.png" width = "150" height = "150" alt="" align=center />
