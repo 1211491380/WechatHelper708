@@ -12,6 +12,9 @@ ipad协议提供web服务，提供源码部署服务<br/>
 公众号相关操作等
 附件的人相关操作等
 功能太多，最近也比较忙，所以更新可能会比较慢。
+### 接口文档
+
+http://39.105.46.42/swagger/index.html
 
 ### 合作微信
  <img src="https://buckettest-file2.oss-cn-shanghai.aliyuncs.com/1111.png" width = "150" height = "150" alt="" align=center />
