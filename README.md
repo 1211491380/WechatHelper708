@@ -12,10 +12,16 @@ ipad协议提供web服务，提供源码部署服务<br/>
 公众号相关操作等
 附件的人相关操作等
 功能太多，最近也比较忙，所以更新可能会比较慢。
-### 接口文档
+### 接口文档(服务器低配置，仅供测试用)
 
 <a href="http://39.105.46.42/swagger/index.html" target="_blank">http://39.105.46.42/swagger/index.html</a>
 
+### 获取二维码接口实例
+```json
+请求地址：http://39.105.46.42/api/login/qr_code
+Headers:Content-Type:application/json
+请求体：{}
+```
 ### 声明
 
 仅供自己学习研究使用，引起任何法律纠纷概不负责
